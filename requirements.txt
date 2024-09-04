@@ -1,0 +1,10 @@
+asyncio
+streamlit
+streamlit-option-menu
+streamlit-chat
+psycopg2-binary
+python-dotenv
+bcrypt
+Pillow
+fal-client
+openai
